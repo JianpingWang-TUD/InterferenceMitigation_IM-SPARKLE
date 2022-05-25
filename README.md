@@ -1,7 +1,7 @@
 # Interference Mitigation for FMCW Radars with Sparse and Low Rank Hankel Matrix Decomposition
 
 ## Descriptions of files/folders:
- **"util_FMCW" folder**: contains some scripts used for FMCW radar data generation;
+ **"util_FMCW" folder**: contains some scripts used for *FMCW radar* data generation;
  
  **"lowRaS_MC" folder**: contains the functions used for the IM-SPARKLE algorithm;
  
